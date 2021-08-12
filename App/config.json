@@ -2,7 +2,7 @@
     "URLs": [
         {
             "alias": "3mx_local",
-            "scene": "/Scene/3mx_local.3mx"
+            "scene": "Scene/3mx_local.3mx"
         }
     ]
 }
